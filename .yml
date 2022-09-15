@@ -1,5 +1,5 @@
 version: 1.2
 workflows:
   - subclass: WDL
-    primaryDescriptorPath: /assoc-aggregate/assoc-aggregate.wdl
+    primaryDescriptorPath: /examplerepository/AlignAndCall.wdl
     testParameterFiles:
